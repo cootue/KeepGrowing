@@ -1,0 +1,6 @@
+name: KeepGrowing
+main: pl.cootue.KeepGrowing.KeepGrowing
+version: 0.1
+description: Wheat fields keep growing when you're away from them
+authors:
+  - cootue
